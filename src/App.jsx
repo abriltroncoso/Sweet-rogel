@@ -6,6 +6,7 @@ import nuez from './assets/nuez.jpg'
 import lemon from './assets/lemon.jpg'
 import rogelitos from './assets/rogelitos.jpg'
 import pavlovitas from './assets/pavlovitas.jpg'
+import Cheesecake from './assets/cheescake.jpg'
 
 function App() {
 
@@ -29,7 +30,7 @@ function App() {
       precio: { Chica: 36000, Mediana: 45000, Grande: 46000 }
     },
     {
-      img: "",
+      img: Cheesecake,
       nombre: "Cheesecake",
       descricion: "Cheesecake NY con mermelada y frutos rojos",
       precio: 48000
