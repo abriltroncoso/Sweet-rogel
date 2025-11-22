@@ -50,7 +50,7 @@ function App() {
 
   const enviarWpp = (producto) => {
     const mensaje = `Hola! Quisiera consultar por: ${producto}`
-    const url = `https://wa.me/5492314529095?text=${encodeURIComponent(mensaje)}`
+    const url = `https://wa.me/5492645195505?text=${encodeURIComponent(mensaje)}`
     window.open(url, "_blank")
   }
 
