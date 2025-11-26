@@ -15,19 +15,19 @@ function App() {
       img: rogel,
       nombre: "Rogel",
       descricion: "Finas capas de masa crocante con dulce de leche decorado con merengue",
-      precio: { Chico: 34000, Mediano: 40000, Grande: 50000 }
+      precio: { "24cm": 36000, "26cm": 42000, "30cm": 52000 }
     },
     {
       img: pavlova,
       nombre: "Pavlova",
       descricion: "Merengue horneado con dulce de leche, crema chantully y frutillas",
-      precio: { Chica: 30000, Mediana: 36000, Grande: 46000 }
+      precio: { "24cm": 34000, "26cm": 40000, "30cm": 50000 }
     },
     {
       img: nuez,
       nombre: "Torta de nuez",
       descricion: "Base húmeda sin gluten con dulce de leche y crema chantilly",
-      precio: { Chica: 36000, Mediana: 45000, Grande: 46000 }
+      precio: { "24cm": 38000, "26cm": 45000, "30cm": 55000 }
     },
     {
       img: Cheesecake,
@@ -39,7 +39,7 @@ function App() {
       img: lemon,
       nombre: "Lemon pie",
       descricion: "Tarta de limón con masa sablé, curd de limón y merengue",
-      precio: { Chico: 28000, Mediano: 34000, Grande: 42000 }
+      precio: { "24cm": 30000, "26cm": 36000, "30cm": 46000 }
     }
   ]
 
